@@ -1,7 +1,5 @@
 # RevitMCPInstaller.exe
 
-# RevitMCPInstaller
-
 **RevitMCPInstaller.exe** is a lightweight Windows application designed to simplify the process of installing the [Revit MCP Plugin](https://github.com/revit-mcp/revit-mcp-plugin). It automatically places the required DLLs and `.addin` manifest into the correct Revit 2024 folders, enabling you to quickly connect Revit to the [Revit MCP](https://github.com/revit-mcp/revit-mcp) server and leverage AI-driven workflows without manual file placements or compiling code.
 
 ---
